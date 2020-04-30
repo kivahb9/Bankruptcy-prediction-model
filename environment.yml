@@ -1,0 +1,42 @@
+name: creditpulseenv
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - appdirs=1.4.3=py_1
+  - astroid=2.3.1=py37_0
+  - attrs=19.2.0=py_0
+  - black=19.3b0=py_0
+  - ca-certificates=2019.9.11=hecc5488_0
+  - certifi=2019.6.16=py37_1
+  - click=7.0=py_0
+  - colorama=0.4.1=py_0
+  - django=2.2.5=py37_0
+  - isort=4.3.21=py37_0
+  - lazy-object-proxy=1.4.2=py37hfa6e2cd_0
+  - mccabe=0.6.1=py_1
+  - mysql-connector-c=6.1.11=he025d50_1002
+  - openssl=1.1.1c=hfa6e2cd_0
+  - pip=19.2.3=py37_0
+  - pylint=2.4.2=py37_0
+  - python=3.7.4=h5263a28_0
+  - pytz=2019.2=py_0
+  - setuptools=41.2.0=py37_0
+  - six=1.12.0=py37_1000
+  - sqlite=3.29.0=he774522_0
+  - sqlparse=0.3.0=py_0
+  - toml=0.10.0=py_0
+  - vc=14.1=h21ff451_3
+  - vs2015_runtime=15.5.2=3
+  - wheel=0.33.6=py37_0
+  - wincertstore=0.2=py37_0
+  - wrapt=1.11.2=py37hfa6e2cd_0
+  - pip:
+    - mysqlclient==1.4.2.post1
+    - numpy==1.17.2
+    - pandas==0.25.1
+    - python-dateutil==2.8.0
+    - sqlalchemy==1.3.8
+prefix: C:\Users\bhavik.prajapati\Anaconda3\envs\creditpulseenv
+

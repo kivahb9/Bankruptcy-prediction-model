@@ -1,0 +1,6 @@
+name: creditpulseenv
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\bhavik.prajapati\Anaconda3\envs\creditpulseenv
+
